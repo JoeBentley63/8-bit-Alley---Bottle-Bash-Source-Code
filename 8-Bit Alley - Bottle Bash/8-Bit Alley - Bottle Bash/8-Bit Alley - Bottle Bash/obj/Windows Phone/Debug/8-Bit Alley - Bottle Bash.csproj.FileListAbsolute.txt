@@ -1,0 +1,46 @@
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\Content\Aim.xnb
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\Content\BadGuy.xnb
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\Content\bottle.xnb
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\Content\BulletHole.xnb
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\Content\Egg.xnb
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\Content\EggedOverlay.xnb
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\Content\EmptyHeart.xnb
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\Content\Heart.xnb
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\Content\Innocent.xnb
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\Content\notch.xnb
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\Content\Overlay.xnb
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\Content\spring.xnb
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\Content\SpringOverlay.xnb
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\Content\TargetFrame.xnb
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\Content\tinCan.xnb
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\Content\Wall.xnb
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\Content\Font.xnb
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\8-Bit Alley - Bottle Bash.dll
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\8-Bit Alley - Bottle Bash.pdb
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\obj\Windows Phone\Debug\8-Bit Alley - Bottle Bash.dll
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\obj\Windows Phone\Debug\8-Bit Alley - Bottle Bash.pdb
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\AppManifest.xaml
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\obj\Windows Phone\Debug\WMAppManifest.xml.g
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\8-Bit Alley - Bottle Bash.xap
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\obj\Windows Phone\Debug\XapCacheFile.xml
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\Content\GlassBreak.xnb
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\Content\GlassClink.xnb
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\Content\EggNoise.xnb
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\Content\Boing.xnb
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\Content\CanClink.xnb
+c:\users\joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\Content\Win.xnb
+C:\Users\Joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\Content\Button.xnb
+C:\Users\Joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\Content\SmallButton.xnb
+C:\Users\Joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\Content\Splash.xnb
+C:\Users\Joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\Content\TutorialPage1Colours.xnb
+C:\Users\Joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\Content\Title.xnb
+C:\Users\Joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\8-Bit Alley - Bottle Bash.xap
+C:\Users\Joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Joe\documents\visual studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\

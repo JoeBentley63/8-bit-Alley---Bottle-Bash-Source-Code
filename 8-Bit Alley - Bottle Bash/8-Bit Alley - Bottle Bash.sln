@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-Bit Alley - Bottle Bash", "8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash.csproj", "{6E4D9FCF-8515-44BE-89E8-DB8AFDEFF5CA}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "8-Bit Alley - Bottle BashContent", "8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle BashContent\8-Bit Alley - Bottle BashContent.contentproj", "{51D04620-3491-440F-AF63-91381285F870}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E4D9FCF-8515-44BE-89E8-DB8AFDEFF5CA}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{6E4D9FCF-8515-44BE-89E8-DB8AFDEFF5CA}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{6E4D9FCF-8515-44BE-89E8-DB8AFDEFF5CA}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{6E4D9FCF-8515-44BE-89E8-DB8AFDEFF5CA}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{6E4D9FCF-8515-44BE-89E8-DB8AFDEFF5CA}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{6E4D9FCF-8515-44BE-89E8-DB8AFDEFF5CA}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{51D04620-3491-440F-AF63-91381285F870}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{51D04620-3491-440F-AF63-91381285F870}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

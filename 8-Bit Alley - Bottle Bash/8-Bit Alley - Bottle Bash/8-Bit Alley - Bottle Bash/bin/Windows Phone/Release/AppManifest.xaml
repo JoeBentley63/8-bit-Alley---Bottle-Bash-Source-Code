@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="8-Bit Alley - Bottle Bash" EntryPointType="_8_Bit_Alley___Bottle_Bash.Game1" RuntimeVersion="3.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="8-Bit Alley - Bottle Bash" Source="8-Bit Alley - Bottle Bash.dll" />
+  </Deployment.Parts>
+</Deployment>

@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Aim.png</Source>
+      <Name>Aim</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Release\Content\Aim.xnb</Output>
+      <Time>2013-08-19T15:34:13.3445215+01:00</Time>
+    </Item>
+    <Item>
+      <Source>BadGuy.png</Source>
+      <Name>BadGuy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Release\Content\BadGuy.xnb</Output>
+      <Time>2013-08-18T14:48:12.1504702+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bottle.png</Source>
+      <Name>bottle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Release\Content\bottle.xnb</Output>
+      <Time>2013-08-18T14:48:12.1534704+01:00</Time>
+    </Item>
+    <Item>
+      <Source>BulletHole.png</Source>
+      <Name>BulletHole</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Release\Content\BulletHole.xnb</Output>
+      <Time>2013-08-18T14:48:12.1694713+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Egg.png</Source>
+      <Name>Egg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Release\Content\Egg.xnb</Output>
+      <Time>2013-08-18T14:48:12.1714714+01:00</Time>
+    </Item>
+    <Item>
+      <Source>EggedOverlay.png</Source>
+      <Name>EggedOverlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Release\Content\EggedOverlay.xnb</Output>
+      <Time>2013-08-18T14:48:12.1734716+01:00</Time>
+    </Item>
+    <Item>
+      <Source>EmptyHeart.png</Source>
+      <Name>EmptyHeart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Release\Content\EmptyHeart.xnb</Output>
+      <Time>2013-08-18T14:48:12.1934727+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Heart.png</Source>
+      <Name>Heart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Release\Content\Heart.xnb</Output>
+      <Time>2013-08-18T14:48:12.2424755+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Innocent.png</Source>
+      <Name>Innocent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Release\Content\Innocent.xnb</Output>
+      <Time>2013-08-18T14:48:12.2454757+01:00</Time>
+    </Item>
+    <Item>
+      <Source>notch.png</Source>
+      <Name>notch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Release\Content\notch.xnb</Output>
+      <Time>2013-08-18T14:48:12.2474758+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Overlay.png</Source>
+      <Name>Overlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Release\Content\Overlay.xnb</Output>
+      <Time>2013-08-19T13:45:43.2696964+01:00</Time>
+    </Item>
+    <Item>
+      <Source>spring.png</Source>
+      <Name>spring</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Release\Content\spring.xnb</Output>
+      <Time>2013-08-18T16:25:54.5807821+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SpringOverlay.png</Source>
+      <Name>SpringOverlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Release\Content\SpringOverlay.xnb</Output>
+      <Time>2013-08-18T14:48:12.2924784+01:00</Time>
+    </Item>
+    <Item>
+      <Source>TargetFrame.png</Source>
+      <Name>TargetFrame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Release\Content\TargetFrame.xnb</Output>
+      <Time>2013-08-18T14:48:12.2954785+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tinCan.png</Source>
+      <Name>tinCan</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Release\Content\tinCan.xnb</Output>
+      <Time>2013-08-18T15:57:58.3729085+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Wall.png</Source>
+      <Name>Wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Release\Content\Wall.xnb</Output>
+      <Time>2013-08-18T14:48:12.1434698+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Button.png</Source>
+      <Name>Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Release\Content\Button.xnb</Output>
+      <Time>2013-08-19T13:39:21.9898884+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SmallButton.png</Source>
+      <Name>SmallButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Release\Content\SmallButton.xnb</Output>
+      <Time>2013-08-19T13:23:28.1543322+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Splash.png</Source>
+      <Name>Splash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Release\Content\Splash.xnb</Output>
+      <Time>2013-08-19T13:42:51.732885+01:00</Time>
+    </Item>
+    <Item>
+      <Source>TutorialPage1Colours.png</Source>
+      <Name>TutorialPage1Colours</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Release\Content\TutorialPage1Colours.xnb</Output>
+      <Time>2013-08-22T23:46:26.9092207+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Title.png</Source>
+      <Name>Title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Release\Content\Title.xnb</Output>
+      <Time>2013-08-19T13:36:55.2334944+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Release\Content\Font.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>GlassBreak.wav</Source>
+      <Name>GlassBreak</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Release\Content\GlassBreak.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>GlassClink.wav</Source>
+      <Name>GlassClink</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Release\Content\GlassClink.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>EggNoise.wav</Source>
+      <Name>EggNoise</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Release\Content\EggNoise.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Boing.wav</Source>
+      <Name>Boing</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Release\Content\Boing.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>CanClink.wav</Source>
+      <Name>CanClink</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Release\Content\CanClink.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Win.wav</Source>
+      <Name>Win</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Release\Content\Win.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <BuildSuccessful>false</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{51D04620-3491-440F-AF63-91381285F870}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle BashContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\obj\Windows Phone\Release\</IntermediateDirectory>
+      <OutputDirectory>E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\8-Bit Alley - Bottle Bash\bin\Windows Phone\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-10-20T18:03:49.6539275+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
